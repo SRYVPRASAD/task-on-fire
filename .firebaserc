@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "task-on-fire": {
+      "hosting": {
+        "task-on-fire": [
+          "task-on-fire"
+        ]
+      }
+    }
+  }
+}
