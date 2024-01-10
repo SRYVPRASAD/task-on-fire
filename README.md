@@ -7,7 +7,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 - Angular
 - Firebase
 
-## Hosted in FireBase 
+## FireBase Hosting
 ### Live Demo
 https://task-on-fire.web.app/
 
